@@ -32,8 +32,8 @@ const Home = () => {
                   longer life.
                 </h1>
                 <p className="text__para">
-                  ISHIKA With a team of dedicated professionals and a commitment
-                  to excellence, we're here to cure those paw-sitive moments in
+                  With a team of dedicated professionals and a commitment to
+                  excellence, we're here to cure those paw-sitive moments in
                   your pet's life. Discover the pawcure difference today!
                 </p>
                 <button className="btn">Request an Appointment</button>
@@ -73,7 +73,7 @@ const Home = () => {
               </div>
               <div className="mt-[30px]">
                 <img src={heroImg02} alt="" className="w-full mb-[30px]"></img>
-                <img src={heroImg03} alt="" className="w-full"></img>
+                <img src={heroImg03} alt="" className="w-full"></img>``
               </div>
             </div>
           </div>
